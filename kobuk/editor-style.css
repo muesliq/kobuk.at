@@ -1,0 +1,18 @@
+/*
+Used to style the TinyMCE editor.
+*/
+
+/* Editor styles */
+
+table td {
+    padding: 10px;
+}
+
+/* Custom styles for dropdown */
+
+.std-table {
+}
+
+.std-table td {
+    padding-right: 10px;
+}

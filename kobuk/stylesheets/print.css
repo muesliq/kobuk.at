@@ -1,0 +1,27 @@
+header,
+.main-navigation-wrapper,
+.search-wrapper,
+footer,
+section.sidebar,
+.comment-form-wrapper,
+.social-button-wrapper {
+  display: none !important;
+}
+body {
+  background-color: #ffffff;
+}
+.container {
+  padding: 0 !important;
+}
+main {
+  padding-bottom: 0 !important;
+}
+section.content-wrapper {
+  padding: 0 !important;
+}
+section.content {
+  padding: 0 !important;
+}
+img {
+  page-break-inside: avoid;
+}
